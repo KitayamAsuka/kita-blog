@@ -3,7 +3,7 @@ on: [push]
 env:
   TZ: Asia/Shanghai
 jobs:
-  Explore-GitHub-Actions:
+  HugoAutoDeploy:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
@@ -11,7 +11,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: latest
+          hugo-version: '0.180.0'
+          extended: true
       - name: Build 
         run: hugo
       - name: Deploy
