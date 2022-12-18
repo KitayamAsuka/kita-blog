@@ -1,0 +1,4 @@
+baseURL = 'kitasuna.ml'
+languageCode = 'zh-cn'
+title = '北山工坊'
+theme = 'stack'
