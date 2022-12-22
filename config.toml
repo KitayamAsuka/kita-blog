@@ -1,4 +1,4 @@
-baseURL = 'https://linsmik.github.io/'
+baseURL = 'https://kitasuna.ml/'
 languageCode = 'zh-cn'
 title = '北山工坊'
 theme = 'stack'
