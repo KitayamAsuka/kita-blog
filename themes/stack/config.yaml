@@ -134,7 +134,7 @@ params:
 
     defaultImage:
         opengraph:
-            enabled: true
+            enabled: false
             local: false
             src:
 
