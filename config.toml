@@ -2,3 +2,5 @@ baseURL = ''
 languageCode = 'zh-cn'
 title = '北山工坊'
 theme = 'stack'
+defaultContentLanguage = 'zh-cn'
+hasCJKLanguage = true

@@ -1,8 +1,8 @@
 ---
-title: About me
+title: 关于我
 menu:
     main: 
-        weight: -90
+        weight: -50
         params:
             icon: user
 ---
