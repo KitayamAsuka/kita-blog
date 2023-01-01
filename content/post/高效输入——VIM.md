@@ -1,7 +1,8 @@
 ---
-title: "New"
+title: "高效输入——VIM"
 date: 2023-01-01T18:53:30+08:00
 draft: false 
+description: 要记好多命令啊喂！
 tags: 
     - Vim
     - 实验
