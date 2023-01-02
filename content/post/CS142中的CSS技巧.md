@@ -11,7 +11,7 @@ categories:
     - 编程
 ---
 
-1. CSS Flexible Box Layout
+CSS Flexible Box Layout
 Flex作为目前最推荐的排版方式，可谓是不得不掌握。而我的记忆还停留在用表格和float排版的年代，为什么我掌握的是这么古早的知识啊！
 
 `flex` flex-grow、flex-shrink、flex-basis的简写，这玩意按照双值三值取才能用得到后面的，麻烦得要死就不管了
