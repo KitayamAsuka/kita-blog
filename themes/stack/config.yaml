@@ -167,11 +167,6 @@ menu:
           params:
               icon: brand-twitter
 
-        - identifier: bilibili
-          name: Bilibili
-          url: https://space.bilibili.com/1893578
-          params:
-              icon: tv
 
 related:
     includeNewer: true
