@@ -22,4 +22,4 @@ jobs:
           external_repository: KitayamAsuka/KitayamAsuka.github.io  # Page 仓库
           publish_branch: main  # Page 仓库的分支
           publish_dir: ./public # 静态网页路径
-          cname: kitasuna.ml
+          cname: kitasuna.tk
