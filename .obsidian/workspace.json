@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/9块钱让Bose QC35Ⅱ重获新生.md",
+                "file": "content/post/工作、生活、心理创伤与时代悲剧——千禧一代生存调查报告.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "856da45eb1016b7e",
+        "id": "edac3e66f07eaa9e",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d948e3856273a7",
+            "id": "32e7b44d518faf3e",
             "type": "leaf",
             "state": {
               "type": "hugo-preview-view",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/9块钱让Bose QC35Ⅱ重获新生.md",
+                "file": "content/post/工作、生活、心理创伤与时代悲剧——千禧一代生存调查报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/9块钱让Bose QC35Ⅱ重获新生.md",
+                "file": "content/post/工作、生活、心理创伤与时代悲剧——千禧一代生存调查报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/9块钱让Bose QC35Ⅱ重获新生.md"
+                "file": "content/post/工作、生活、心理创伤与时代悲剧——千禧一代生存调查报告.md"
               }
             }
           }
@@ -160,10 +160,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "13b1a63935021c28",
+  "active": "32e7b44d518faf3e",
   "lastOpenFiles": [
-    "content/post/2022年终总结.md",
     "content/post/9块钱让Bose QC35Ⅱ重获新生.md",
+    "content/post/工作、生活、心理创伤与时代悲剧——千禧一代生存调查报告.md",
+    "content/post/未命名.md",
+    "content/search.md",
+    "content/archives.md",
+    "content/about.md",
+    "content/post/2022年终总结.md",
     "content/post/终于不用做neet了.md"
   ]
 }
