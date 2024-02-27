@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/工作、生活、心理创伤与时代悲剧——千禧一代生存调查报告.md",
+                "file": "content/post/24年该怎么搞廉价域名.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "edac3e66f07eaa9e",
+        "id": "0e826c6d9c9ae9f1",
         "type": "tabs",
         "children": [
           {
-            "id": "32e7b44d518faf3e",
+            "id": "ec27e4ee5ab31ea4",
             "type": "leaf",
             "state": {
               "type": "hugo-preview-view",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/工作、生活、心理创伤与时代悲剧——千禧一代生存调查报告.md",
+                "file": "content/post/24年该怎么搞廉价域名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/工作、生活、心理创伤与时代悲剧——千禧一代生存调查报告.md",
+                "file": "content/post/24年该怎么搞廉价域名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/工作、生活、心理创伤与时代悲剧——千禧一代生存调查报告.md"
+                "file": "content/post/24年该怎么搞廉价域名.md"
               }
             }
           }
@@ -160,11 +160,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "32e7b44d518faf3e",
+  "active": "ec27e4ee5ab31ea4",
   "lastOpenFiles": [
     "content/post/9块钱让Bose QC35Ⅱ重获新生.md",
-    "content/post/工作、生活、心理创伤与时代悲剧——千禧一代生存调查报告.md",
+    "content/post/24年该怎么搞廉价域名.md",
+    "content/post/北山家的饭 SP1.md",
     "content/post/未命名.md",
+    "content/post/佳能M50怎么上C-LOG.md",
+    "content/post/近期一段时间的总结.md",
+    "content/post/漫步者MiniBuds 令人惊奇的国产TWS耳机.md",
+    "content/post/你应该学会——世界上最好的分布式版本控制工具Git.md",
+    "content/post/提高生产力.md",
+    "content/post/解决部署在Github Pages上图片不显示的问题.md",
+    "content/post/工作、生活、心理创伤与时代悲剧——千禧一代生存调查报告.md",
+    "content/post/高效输入——VIM.md",
+    "content/post/2023-01-24.md",
     "content/search.md",
     "content/archives.md",
     "content/about.md",
